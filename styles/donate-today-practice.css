@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    font-family: 'open sans',sans-serif;
+}
+/* banner styles */
+header{
+    height: 100vh;
+    background-image: url('/images/donation2.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-blend-mode: ;
+    /* background-image: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%); */
+    /* background-blend-mode: multiply; */
+}
+.banner{
+    text-align: center;
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 65px;
+     color: #FFFFFF; 
+    padding-top: 108px;
+    padding-left: 100px;
+    width: 826px;
+height: 158px;
+}
+.banner-description{
+    width: 526px;
+    height: 158px;
+    font-weight: 400;
+    font-size: 18px;
+    padding-top: 30px;
+    padding-left: 250px;
+    color: #FFFFFF;
+}
+.btn-primary{
+    width: 160px;
+    height: 56px;
+    color: #FFFFFF;;
+    border: 2px solid #FF5959;
+    background: #FF5959;
+    border-radius: 5px;
+}
+/* section styles */
+.section-item{
+    text-align: center;
+}
+.section-title{
+    width: 400px;
+    height: 54px; 
+    font-weight: 700;
+    font-size: 45px;
+    margin-top: 119px;
+    margin-left: 280px;
+    color: #121212;
+}
+.section-description{
+    width: 550px;
+    height: 56px; 
+    font-weight: 400;
+    font-size: 18px;
+    margin-left: 220px;
+    margin-top: 30px;
+    color: #707070;
+}
+nav,ul,li{
+    font-weight: 700;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 40px;
+    margin-top: 10px;
+    color: #707070;
+}
+.average{
+    color: #FF5959;
+    background-color: #FFF8F3;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    /* transform: rotate(-1.75deg); */
+}
+.others{
+    text-align: center;
+}
+.others-taka{
+    font-weight: 400;
+    font-size: 18px;
+    /* justify-content: center;
+    align-items: center; */
+    width: 192px;
+    height: 28px;
+    margin-left: 410px;
+    margin-bottom: 9.5px;
+    color: #B3B3B3;
+}
+.hr{
+    width: 500px;
+    margin-left: 250px;
+    margin-bottom: 25px;
+    color: aqua;
+}
+.plan{
+    text-align: center;
+}
+.plan-title{
+    font-weight: 700;
+    font-size: 45px;
+    margin-top: 130px;
+    margin-bottom: 20px;
+    color: #121212;
+}
+.plan-description{
+    width: 500px;
+    height: 56px;
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 50px;
+    margin-left: 250px;
+    color: #707070;
+}
+.plan-item{
+    display: flex;
+    gap: 30px;
+}
+/* food style */
+.food-item{
+    width: 360px;
+    height: 352px;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+}
+.food{
+    font-weight: 600;
+    font-size: 24px;
+    text-align: center;
+    color: #121212;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.food-description{
+    width: 200px;
+    height: 101px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #707070;
+    padding-left: 50px;
+}
+/* shelter style */
+.shelter-item{
+    width: 360px;
+    height: 352px;
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 5px;
+}
+.shelter{
+    font-weight: 600;
+    font-size: 24px;
+    text-align: center;
+    color: #121212;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.shelter-description{
+    width: 200px;
+    height: 101px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #707070;
+    padding-left: 50px;
+}
+/* education style */
+.education-item{
+    width: 360px;
+    height: 352px;
+    background: rgba(23, 7, 89, 0.1);
+    border-radius: 5px;
+}
+.education{
+    font-weight: 600;
+    font-size: 24px;
+    text-align: center;
+    color: #121212;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.education-description{
+    width: 200px;
+    height: 101px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #707070;
+    padding-left: 50px;
+}
+.image{
+    margin-top: 64px;
+    margin-left: 22px;
+}
+   
