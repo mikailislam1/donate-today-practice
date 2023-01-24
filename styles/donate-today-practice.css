@@ -195,4 +195,84 @@ nav,ul,li{
     margin-top: 64px;
     margin-left: 22px;
 }
-   
+/* donation styles */
+.donation-pre{
+    margin-top: 148px;
+}
+.donation{
+    display: flex;
+    gap: 59px;
+}
+.donation-section{
+    width: 482px;
+    height: 374px;
+    padding-right: 180px;
+    padding-top: 130px;
+}
+.donation-title{
+    width: 492px;
+    height: 108px;
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+}
+.donation-description{
+    width: 482px;
+    height: 84px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+}
+
+
+/* survive styles */
+.survive-pre{
+    margin-top: 148px;
+}
+.survive{
+    display: flex;
+    gap: 59px;
+}
+.survive-section{
+    width: 482px;
+    height: 374px;
+    padding-right: 180px;
+    padding-top: 130px;
+}
+.survive-title{
+    width: 492px;
+    height: 108px;
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+}
+.survive-description{
+    width: 482px;
+    height: 84px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+}
+/* update styles */
+.update{
+    margin-top: 147px;
+}
+.update-title{
+
+}
+.update-description{
+
+}
+/* footer styles */
+.footer-pre{
+    margin-top: 380px;
+}
+.footer{
+
+}
+.footer-title{
+
+}
+.footer-description{
+
+}
